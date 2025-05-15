@@ -1,0 +1,51 @@
+body {
+    background-color: #e2e2e2;
+}
+
+h1.tituloprincipal {
+    color: #000;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    text-align: justify;
+}
+
+ul li {
+    margin-bottom: 15px;
+}
+
+img.imagem {
+    border-radius: 12%;
+}
+
+table {
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+caption {
+    font-size: 1.5em;
+    margin-bottom: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: bold;
+}
+
+th {
+    background-color: gray;
+    text-align: justify;
+}
+
+a:hover {
+    background-color: lightblue;
+}
+
+.defaultBtn {
+    color: gray;
+}
+
+.linkSite {
+    color: black;
+}
